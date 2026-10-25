@@ -4,7 +4,7 @@ public class Program1 {
 
 	public static void main(String[] args) {
 
-		System.out.println("Sample Test");
+		System.out.println("New Branch Created");
 	}
 
 }
